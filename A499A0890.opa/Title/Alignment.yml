@@ -1,0 +1,28 @@
+segment_sources:
+  P171894EE:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4CAADA61:
+    type: origin_type
+    relation: translation
+    language: bo
+  P6A4ED41C:
+    type: origin_type
+    relation: translation
+    language: zh
+  P17662B87:
+    type: origin_type
+    relation: translation
+    language: zh
+  P44070FEE:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  027a5347db174957bebc2832798728a3:
+    P171894EE: 82565b9fe9c2466285961fd3c40f6221
+    P4CAADA61: f566449fc54b4d5fa4aa09cc1cad59b9
+    P6A4ED41C: 5108010be0804fed9e8bba1222ac3276
+    P17662B87: da3e857355954f92af24df6e29aa7b28
+    P44070FEE: 3e91902951f1438c9b15061adfcbd7f1
